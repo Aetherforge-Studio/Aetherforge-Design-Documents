@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://c7opa71r7xpnb"
+
+[deps]
+
+files=["res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.context.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.max.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.en.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.fr.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.de.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.es.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.pl.translation"]
+
+source_file="res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.csv"
+dest_files=["res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.context.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.max.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.en.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.fr.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.de.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.es.translation", "res://docs/Roots of Creation/Localization string table template/Localization string table/Strings.pl.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

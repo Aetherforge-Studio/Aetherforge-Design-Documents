@@ -1,0 +1,14 @@
+﻿key,context,max_length,en,fr,de,es,pl
+menu.play,Main menu button,12,Play,Jouer,Spielen,Jugar,Graj
+menu.settings,Main menu button; the button holds 10 characters,10,Settings,Paramètres,Einstellungen,Ajustes,Ustawienia
+menu.quit,Main menu button,12,Quit,Quitter,Beenden,Salir,Wyjdź
+hud.tide.warning,Shown on the HUD two minutes before the tide turns; {minutes} is a number,40,The tide turns in {minutes} min,La marée tourne dans {minutes} min,Gezeitenwechsel in {minutes} Min.,La marea cambia en {minutes} min,Zmiana pływu za {minutes} min
+hud.salt.count,HUD counter; {count} is a number,20,Salt: {count},Sel : {count},Salz: {count},Sal: {count},Sól: {count}
+dialogue.archivist.greet,"The Drowned Archivist, first meeting. Calm and formal: addresses the player formally",120,"You came down with the tide. Most who do, stay.",Vous êtes descendu avec la marée. La plupart de ceux qui le font restent.,"Sie sind mit der Flut herabgestiegen. Die meisten, die das tun, bleiben.",Ha bajado con la marea. La mayoría de quienes lo hacen se quedan.,
+item.crystal.name,"Item name, in the inventory and the shop",24,Memory crystal,Cristal de mémoire,Erinnerungskristall,Cristal de memoria,Kryształ pamięci
+item.crystal.desc,Item description; <b> marks the word to highlight,140,Holds one <b>memory</b> of the drowned city. Sells well in the village.,Contient un <b>souvenir</b> de la cité engloutie. Se vend bien au village.,Enthält eine <b>Erinnerung</b> an die versunkene Stadt. Verkauft sich gut im Dorf.,Guarda un <b>recuerdo</b> de la ciudad sumergida. Se vende bien en el pueblo.,Zawiera jedno <b>wspomnienie</b> zatopionego miasta. Dobrze się sprzedaje w wiosce.
+quest.horn.title,Quest title in the journal,32,Before the horn,Avant la corne,Vor dem Horn,Antes del cuerno,Zanim zabrzmi róg
+quest.horn.goal,Quest objective in the journal; {count} is a number,60,Crystals to bring up before the horn: {count},Cristaux à remonter avant la corne : {count},"Kristalle, die vor dem Horn nach oben müssen: {count}",Cristales que subir antes del cuerno: {count},"Kryształy do wyniesienia, zanim zabrzmi róg: {count}"
+ui.save.done,"Message after saving, shown for two seconds",40,Game saved,Partie sauvegardée,Spiel gespeichert,Partida guardada,Gra zapisana
+ui.tide.low,Label of the tide indicator,16,Low tide,Marée basse,Ebbe,Marea baja,Odpływ
+ui.tide.high,Label of the tide indicator,16,High tide,Marée haute,Flut,Marea alta,Przypływ

@@ -1,0 +1,71 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Game Design Document/GDD-05 - Characters/PCs",
+      "template": "_templates/GDD templates/CHR-XX - Character Template.md"
+    },
+    {
+      "folder": "Game Design Document/GDD-05 - Characters/NPCs",
+      "template": "_templates/GDD templates/CHR-XX - Character Template.md"
+    },
+    {
+      "folder": "Game Design Document/GDD-05 - Characters/Mobs",
+      "template": "_templates/GDD templates/CHR-XX - Character Template.md"
+    },
+    {
+      "folder": "Game Design Document/GDD-05 - Characters/Bosses",
+      "template": "_templates/GDD templates/CHR-XX - Character Template.md"
+    },
+    {
+      "folder": "Game Design Document/GDD-06 - Levels & Environment",
+      "template": "_templates/GDD templates/LVL-XX - Level Template.md"
+    },
+    {
+      "folder": "Game Design Document/GDD-07 - Items & Equipment",
+      "template": "_templates/GDD templates/ITM-XX - Item Template.md"
+    },
+    {
+      "folder": "Game Design Document/SYS-15 - Quests",
+      "template": "_templates/GDD templates/QST-XX - Quest Template.md"
+    },
+    {
+      "folder": "Game Design Document/SYS-14 - Crafting & Recipes",
+      "template": "_templates/GDD templates/RCP_XX - Recipe Template.md"
+    },
+    {
+      "folder": "Game Design Document/GDD-02 - Systems & Mechanics",
+      "template": "_templates/GDD templates/SYS-XX - System Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": []
+}

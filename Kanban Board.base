@@ -1,0 +1,147 @@
+views:
+  - type: kanban-view
+    name: View
+    columnOrders:
+      file.file:
+        - Architecture Decision Record/ADR-00 Table of Contents.md
+        - Art bible template/Art bible.md
+        - Art bible template/Art bible/01 Color and light.md
+        - Art bible template/Art bible/02 Shape language and style.md
+        - Art bible template/Art bible/03 Characters.md
+        - Art bible template/Art bible/04 Environments.md
+        - Art bible template/Art bible/05 Production specs.md
+        - Game Design Document/GDD-00 - Game Overview.md
+        - Game Design Document/GDD-01 - Gameplay.md
+        - Game Design Document/GDD-02 - Systems & Mechanics.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-01 - Movement & Navigation.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-02 - Interactions.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-03 - Combat.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-04 - Progression.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-05 - Skill Trees.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-06 - Party Management.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-07 - Inventory & Storage.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-08 - Gathering & Resources.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-08 - Gathering & Resources/SYS-08-01 - Farming.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-09 - Crafting.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-09 - Crafting/RCP-01 - Sample Recipe.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-10 - Economy.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-11 - Vendors & Shops.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-12 - Loot & Rewards.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-13 - Quests.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-13 - Quests/QST-01 - Sample Quest.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-14 - Dialogue.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-15 - Reputation.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-16 - Time & Calendar.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-17 - Difficulty & Game Modes.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-18 - Achievements.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-19 - Tutorial & Guidance.md
+        - Game Design Document/GDD-02 - Systems & Mechanics/SYS-20 - Save & Load.md
+        - Game Design Document/GDD-03 - World & Setting.md
+        - Game Design Document/GDD-04 - Story & Narrative.md
+        - Game Design Document/GDD-05 - Characters.md
+        - Game Design Document/GDD-05 - Characters/PCs/CHR-01 - Protagonist.md
+        - Game Design Document/GDD-06 - Levels & Environment.md
+        - Game Design Document/GDD-06 - Levels & Environment/LVL-01 - Sample Level.md
+        - Game Design Document/GDD-07 - Items & Equipment.md
+        - Game Design Document/GDD-07 - Items & Equipment/ITM-01 - Sample Item.md
+        - Game Design Document/GDD-08 - Art & Audio Direction.md
+        - Game Design Document/GDD-09 - Interface & Accessibility.md
+        - Game Design Document/GDD-10 - Production Plans.md
+        - Kanban Board.md
+        - Level design document template/Level design document.md
+        - Level design document template/Level design document/01 Flow and beats.md
+        - Level design document template/Level design document/02 Layout and metrics.md
+        - Level design document template/Level design document/03 Gameplay and encounters.md
+        - Level design document template/Level design document/04 Playtests and production.md
+        - Localization string table template/Localization string table.md
+        - Localization string table template/Localization string table/01 Glossary.md
+        - Localization string table template/Localization string table/02 Style guide.md
+        - Localization string table template/Localization string table/Strings.context.translation
+        - Localization string table template/Localization string table/Strings.csv
+        - Localization string table template/Localization string table/Strings.csv.import
+        - Localization string table template/Localization string table/Strings.es.translation
+        - Localization string table template/Localization string table/Strings.fr.translation
+        - Localization string table template/Localization string table/Strings.max.translation
+        - Localization string table template/Localization string table/Strings.pl.translation
+        - Overview.md
+        - TDD/00-Architecture.md
+        - TDD/01-Scene-Management.md
+        - TDD/02-Character-System.md
+        - TDD/03-World-System.md
+        - TDD/04-Dialogue-System.md
+        - TDD/05-Combat-System.md
+        - TDD/06-Progression-System.md
+        - TDD/07-Inventory-System.md
+        - TDD/08-Quest-System.md
+        - TDD/09-Save-System.md
+        - TDD/10-UI-System.md
+        - TDD/11-Audio-System.md
+        - TDD/12-Data-Resources.md
+        - TDD/13-Tools-Pipeline.md
+        - TDD/14-Testing.md
+        - Technical Design Document/TDD-00 - Technical Overview.md
+        - Untitled.base
+        - Untitled.md
+        - _templates/ADR templates/ADR-XX - Record Template.md
+        - _templates/GDD templates/CHR-XX - Character Template.md
+        - _templates/GDD templates/ITM-XX - Item Template.md
+        - _templates/GDD templates/LVL-XX - Level Template.md
+        - _templates/GDD templates/QST-XX - Quest Template.md
+        - _templates/GDD templates/RCP_XX - Recipe Template.md
+        - _templates/GDD templates/SYS-XX - System Template.md
+      note.status:
+        - Uncategorized
+        - Open
+        - In Progress
+        - Review
+        - Approved
+        - Implemented
+        - Deprecated
+    cardOrders:
+      file.file: {}
+      note.status:
+        Deprecated: []
+        Open:
+          - Game Design Document/GDD-05 - Characters/PCs/CHR-01 - Protagonist.md
+          - Game Design Document/GDD-00 - Game Overview.md
+          - Game Design Document/GDD-01 - Gameplay.md
+          - Game Design Document/GDD-02 - Systems & Mechanics.md
+          - Game Design Document/GDD-03 - World & Setting.md
+          - Game Design Document/GDD-04 - Story & Narrative.md
+          - Game Design Document/GDD-05 - Characters.md
+          - Game Design Document/GDD-06 - Levels & Environment.md
+          - Game Design Document/GDD-07 - Items & Equipment.md
+          - Game Design Document/GDD-08 - Art & Audio Direction.md
+          - Game Design Document/GDD-09 - Interface & Accessibility.md
+          - Game Design Document/GDD-10 - Production Plans.md
+          - Game Design Document/GDD-07 - Items & Equipment/ITM-01 - Sample Item.md
+          - Game Design Document/GDD-06 - Levels & Environment/LVL-01 - Sample Level.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-13 - Quests/QST-01 - Sample Quest.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-09 - Crafting/RCP-01 - Sample Recipe.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-01 - Movement & Navigation.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-02 - Interactions.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-03 - Combat.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-04 - Progression.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-05 - Skill Trees.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-06 - Party Management.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-07 - Inventory & Storage.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-08 - Gathering & Resources.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-08 - Gathering & Resources/SYS-08-01 - Farming.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-09 - Crafting.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-12 - Loot & Rewards.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-13 - Quests.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-14 - Dialogue.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-15 - Reputation.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-16 - Time & Calendar.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-17 - Difficulty & Game Modes.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-18 - Achievements.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-19 - Tutorial & Guidance.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-20 - Save & Load.md
+        Uncategorized:
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-10 - Economy.md
+          - Game Design Document/GDD-02 - Systems & Mechanics/SYS-11 - Vendors & Shops.md
+    columnColors:
+      file.file: {}
+      note.status: {}
+    groupByProperty: note.status
+    cardTitleProperty: note.name
